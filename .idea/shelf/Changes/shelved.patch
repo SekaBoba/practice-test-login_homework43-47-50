@@ -1,0 +1,19 @@
+Index: page_objects/login_page.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from selenium.webdriver.common.by import By\r\nfrom selenium.webdriver.remote.webdriver import WebDriver\r\nfrom selenium.webdriver.support import expected_conditions as ec\r\nfrom selenium.webdriver.support.wait import WebDriverWait\r\n\r\n\r\nclass LoginPage:\r\n    __url = \"https://practicetestautomation.com/practice-test-login/\"\r\n    __username_field = (By.ID, \"username\")\r\n    __password_field = (By.NAME, \"password\")\r\n    __submit_button = (By.XPATH, \"//button[@class='btn']\")\r\n\r\n\r\n\r\n\r\n    def __init__(self,driver: WebDriver):\r\n        self._driver=driver\r\n\r\n    #open metod\r\n    def open(self):\r\n        self._driver.get(self.__url)\r\n\r\n    def execute_login(self, username: str, password: str):\r\n        wait = WebDriverWait(self._driver, 10)\r\n        wait.until(ec.visibility_of_element_located(self.__username_field))\r\n        self._driver.find_element(self.__username_field).send_keys(username)\r\n        wait.until(ec.visibility_of_element_located(self.__password_field))\r\n        self._driver.find_element(self.__password_field).send_keys(password)\r\n        wait.until(ec.visibility_of_element_located(self.__submit_button))\r\n        self._driver.find_element(self.__submit_button).click()
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/page_objects/login_page.py b/page_objects/login_page.py
+--- a/page_objects/login_page.py	(revision 8235e47d06019179e07ad91140075d9528ea408f)
++++ b/page_objects/login_page.py	(date 1728283331923)
+@@ -11,8 +11,6 @@
+     __submit_button = (By.XPATH, "//button[@class='btn']")
+ 
+ 
+-
+-
+     def __init__(self,driver: WebDriver):
+         self._driver=driver
+ 

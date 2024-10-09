@@ -1,0 +1,317 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ce842230-d8ea-47e9-95c6-be6f88365a9d\" name=\"Changes\" comment=\"practice-test-login_homework43-47-50.git\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.name\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/practice-test-login_homework43-47-50.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/tests/pytest.ini\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/tests/requirements.txt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/tests/test_47.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/tests/test_homework43.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SIGN_OFF_COMMIT\" value=\"true\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mmiNgqJinmxQ4Ckfqdfb3sRmRL\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python tests.Python tests for Homework43.test_positive_login.executor\": \"Run\",\r\n    \"Python tests.Python tests for test_47.TestPositiveScenarios.executor\": \"Run\",\r\n    \"Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald.executor\": \"Run\",\r\n    \"Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception.executor\": \"Run\",\r\n    \"Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button.executor\": \"Run\",\r\n    \"Python tests.Python tests in test_47.py.executor\": \"Run\",\r\n    \"Python tests.Python tests in test_homework43.py.executor\": \"Run\",\r\n    \"Python tests.Python tests in test_login.py.executor\": \"Run\",\r\n    \"Python tests.debug.executor\": \"Run\",\r\n    \"Python.Homework43.executor\": \"Run\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"last_opened_file_path\": \"C:/Users/slobodanka.mihajlov/pytestProjects/Homework43\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python tests.debug\">\r\n    <configuration default=\"true\" type=\"PythonConfigurationType\" factoryName=\"Python\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"Tox\" factoryName=\"Tox\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"docs\" factoryName=\"Docutils task\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"docutils_input_file\" value=\"\" />\r\n      <option name=\"docutils_output_file\" value=\"\" />\r\n      <option name=\"docutils_params\" value=\"\" />\r\n      <option name=\"docutils_task\" value=\"\" />\r\n      <option name=\"docutils_open_in_browser\" value=\"false\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"docs\" factoryName=\"Sphinx task\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"docutils_input_file\" value=\"\" />\r\n      <option name=\"docutils_output_file\" value=\"\" />\r\n      <option name=\"docutils_params\" value=\"\" />\r\n      <option name=\"docutils_task\" value=\"\" />\r\n      <option name=\"docutils_open_in_browser\" value=\"false\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Python tests for test_47.TestPositiveScenarios\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;test_47.TestPositiveScenarios&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Python tests for test_47.TestPositiveScenarios.test_clear_input_feald\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;test_47.TestPositiveScenarios.test_clear_input_feald&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;test_47.TestPositiveScenarios.test_no_such_element_exception&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Python tests for test_47.TestPositiveScenarios.test_push_add_button\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;test_47.TestPositiveScenarios.test_push_add_button&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"tests\" factoryName=\"Autodetect\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PATH&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"tests\" factoryName=\"Doctests\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"\" />\r\n      <option name=\"CLASS_NAME\" value=\"\" />\r\n      <option name=\"METHOD_NAME\" value=\"\" />\r\n      <option name=\"FOLDER_NAME\" value=\"\" />\r\n      <option name=\"TEST_TYPE\" value=\"TEST_SCRIPT\" />\r\n      <option name=\"PATTERN\" value=\"\" />\r\n      <option name=\"USE_PATTERN\" value=\"false\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"debug\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\">\r\n      <module name=\"practice-test-login_homework43-47-50\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;-m debug&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;$PROJECT_DIR$/tests/test_47.py&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PATH&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Python.main\" />\r\n      <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button\" />\r\n      <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios\" />\r\n      <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald\" />\r\n      <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception\" />\r\n      <item itemvalue=\"Python tests.debug\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python tests.debug\" />\r\n        <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button\" />\r\n        <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception\" />\r\n        <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald\" />\r\n        <item itemvalue=\"Python tests.Python tests for test_47.TestPositiveScenarios\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ce842230-d8ea-47e9-95c6-be6f88365a9d\" name=\"Changes\" comment=\"\" />\r\n      <created>1727688113940</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727688113940</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"3e27dcc8-cb20-4853-8d5b-2b35c2fd78fb\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"3e27dcc8-cb20-4853-8d5b-2b35c2fd78fb\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"practice-test-login_homework43-47-50.git\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"practice-test-login_homework43-47-50.git\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/main.py</url>\r\n          <line>8</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/main.py</url>\r\n          <line>22</line>\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/main.py</url>\r\n          <line>26</line>\r\n          <option name=\"timeStamp\" value=\"3\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 03718564d0ede2702f6a1446d194b8b3998fea83)
++++ b/.idea/workspace.xml	(date 1728281928145)
+@@ -5,18 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="ce842230-d8ea-47e9-95c6-be6f88365a9d" name="Changes" comment="practice-test-login_homework43-47-50.git">
+-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/practice-test-login_homework43-47-50.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests/pytest.ini" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests/requirements.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests/test_47.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/tests/test_homework43.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/page_objects/login_page.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -34,6 +24,18 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="SIGN_OFF_COMMIT" value="true" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;SekaBoba&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/SekaBoba/practice-test-login_homework43-47-50.git&quot;,
++    &quot;accountId&quot;: &quot;84d8070f-7751-4478-a711-b51be1a7f7d3&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 1
+ }</component>
+@@ -43,47 +45,26 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python tests.Python tests for Homework43.test_positive_login.executor": "Run",
+-    "Python tests.Python tests for test_47.TestPositiveScenarios.executor": "Run",
+-    "Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald.executor": "Run",
+-    "Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception.executor": "Run",
+-    "Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button.executor": "Run",
+-    "Python tests.Python tests in test_47.py.executor": "Run",
+-    "Python tests.Python tests in test_homework43.py.executor": "Run",
+-    "Python tests.Python tests in test_login.py.executor": "Run",
+-    "Python tests.debug.executor": "Run",
+-    "Python.Homework43.executor": "Run",
+-    "Python.main.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "last_opened_file_path": "C:/Users/slobodanka.mihajlov/pytestProjects/Homework43"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python tests.Python tests for Homework43.test_positive_login.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests for test_47.TestPositiveScenarios.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests for test_47.TestPositiveScenarios.test_timeout_exception.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests in test_47.py.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests in test_homework43.py.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.Python tests in test_login.py.executor&quot;: &quot;Run&quot;,
++    &quot;Python tests.debug.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Homework43.executor&quot;: &quot;Run&quot;,
++    &quot;Python.main.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/slobodanka.mihajlov/pytestProjects/Homework43&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="Python tests.debug">
+-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+-      <module name="practice-test-login_homework43-47-50" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="practice-test-login_homework43-47-50" />
+       <option name="ENV_FILES" value="" />
+@@ -106,67 +87,6 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration default="true" type="Tox" factoryName="Tox">
+-      <module name="practice-test-login_homework43-47-50" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration default="true" type="docs" factoryName="Docutils task">
+-      <module name="practice-test-login_homework43-47-50" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="docutils_input_file" value="" />
+-      <option name="docutils_output_file" value="" />
+-      <option name="docutils_params" value="" />
+-      <option name="docutils_task" value="" />
+-      <option name="docutils_open_in_browser" value="false" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration default="true" type="docs" factoryName="Sphinx task">
+-      <module name="practice-test-login_homework43-47-50" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="docutils_input_file" value="" />
+-      <option name="docutils_output_file" value="" />
+-      <option name="docutils_params" value="" />
+-      <option name="docutils_task" value="" />
+-      <option name="docutils_open_in_browser" value="false" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="Python tests for test_47.TestPositiveScenarios" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+-      <module name="practice-test-login_homework43-47-50" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="_new_additionalArguments" value="&quot;&quot;" />
+-      <option name="_new_target" value="&quot;test_47.TestPositiveScenarios&quot;" />
+-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+-      <method v="2" />
+-    </configuration>
+     <configuration name="Python tests for test_47.TestPositiveScenarios.test_clear_input_feald" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+       <module name="practice-test-login_homework43-47-50" />
+       <option name="ENV_FILES" value="" />
+@@ -212,38 +132,19 @@
+       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+       <method v="2" />
+     </configuration>
+-    <configuration default="true" type="tests" factoryName="Autodetect">
++    <configuration name="Python tests for test_47.TestPositiveScenarios.test_timeout_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+       <module name="practice-test-login_homework43-47-50" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
++      <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <option name="_new_additionalArguments" value="&quot;&quot;" />
+-      <option name="_new_target" value="&quot;&quot;" />
+-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration default="true" type="tests" factoryName="Doctests">
+-      <module name="practice-test-login_homework43-47-50" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="" />
+-      <option name="CLASS_NAME" value="" />
+-      <option name="METHOD_NAME" value="" />
+-      <option name="FOLDER_NAME" value="" />
+-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+-      <option name="PATTERN" value="" />
+-      <option name="USE_PATTERN" value="false" />
++      <option name="_new_target" value="&quot;test_47.TestPositiveScenarios.test_timeout_exception&quot;" />
++      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+       <method v="2" />
+     </configuration>
+     <configuration name="debug" type="tests" factoryName="Autodetect" temporary="true">
+@@ -263,8 +164,8 @@
+     </configuration>
+     <list>
+       <item itemvalue="Python.main" />
++      <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_timeout_exception" />
+       <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button" />
+-      <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios" />
+       <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald" />
+       <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception" />
+       <item itemvalue="Python tests.debug" />
+@@ -272,10 +173,10 @@
+     <recent_temporary>
+       <list>
+         <item itemvalue="Python tests.debug" />
++        <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_timeout_exception" />
+         <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button" />
+         <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception" />
+         <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald" />
+-        <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -295,6 +196,15 @@
+       <option name="presentableId" value="Default" />
+       <updated>1727688113940</updated>
+     </task>
++    <task id="LOCAL-00001" summary="practice-test-login_homework43-47-50.git">
++      <option name="closed" value="true" />
++      <created>1727866446374</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1727866446374</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -315,7 +225,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="practice-test-login_homework43-47-50.git" />
+-    <option name="LAST_COMMIT_MESSAGE" value="practice-test-login_homework43-47-50.git" />
++    <MESSAGE value="practice-test-login_homework43-47-50.git&#10;&#10;Signed-off-by: slobodanka.mihajlov &lt;mihajlov.slobodanka@yahoo.com&gt;" />
++    <option name="LAST_COMMIT_MESSAGE" value="practice-test-login_homework43-47-50.git&#10;&#10;Signed-off-by: slobodanka.mihajlov &lt;mihajlov.slobodanka@yahoo.com&gt;" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+Index: page_objects/login_page.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/page_objects/login_page.py b/page_objects/login_page.py
+new file mode 100644
+--- /dev/null	(date 1728281673455)
++++ b/page_objects/login_page.py	(date 1728281673455)
+@@ -0,0 +1,30 @@
++from selenium.webdriver.common.by import By
++from selenium.webdriver.remote.webdriver import WebDriver
++from selenium.webdriver.support import expected_conditions as ec
++from selenium.webdriver.support.wait import WebDriverWait
++
++
++class LoginPage:
++    __url = "https://practicetestautomation.com/practice-test-login/"
++    __username_field = (By.ID, "username")
++    __password_field = (By.NAME, "password")
++    __submit_button = (By.XPATH, "//button[@class='btn']")
++
++
++
++
++    def __init__(self,driver: WebDriver):
++        self._driver=driver
++
++    #open metod
++    def open(self):
++        self._driver.get(self.__url)
++
++    def execute_login(self, username: str, password: str):
++        wait = WebDriverWait(self._driver, 10)
++        wait.until(ec.visibility_of_element_located(self.__username_field))
++        self._driver.find_element(self.__username_field).send_keys(username)
++        wait.until(ec.visibility_of_element_located(self.__password_field))
++        self._driver.find_element(self.__password_field).send_keys(password)
++        wait.until(ec.visibility_of_element_located(self.__submit_button))
++        self._driver.find_element(self.__submit_button).click()
+\ No newline at end of file

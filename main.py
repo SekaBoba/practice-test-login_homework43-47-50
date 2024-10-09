@@ -29,4 +29,4 @@ class NoSuchElementException:
         time.sleep(15)
         # Verify Row 2 input field is displayed
         row2=driver.find_element(By.ID,"row2")
-        assert row2.is_displayed(), 'Row 2 is not displayed, but it should be'
+        assert row2._is_displayed(), 'Row 2 is not displayed, but it should be'

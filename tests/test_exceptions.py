@@ -41,20 +41,14 @@ class TestExceptions:
 
     @pytest.mark.exceptions
     def test_stale_element_reference_exception(self, driver):
-        # Open page
-        driver.get("https://practicetestautomation.com/practice-test-exceptions/")
-
-        # Push add button
-        add_button_locator = driver.find_element(By.ID, "add_btn")
-        add_button_locator.click()
-
-        # Verify instruction text element is no longer displayed
-        wait = WebDriverWait(driver, 10)
-        assert wait.until(ec.invisibility_of_element_located(
-            (By.ID, "instructions")), "Instruction text element should not be displayed")
+        exceptions_page = ExceptionsPage(driver)
+        exceptions_page.open()
+        exceptions_page.add_second_row()
+        assert not exceptions_page.are_instructions_displayed(), "Instruction text element should not be displayed"
 
     @pytest.mark.exceptions
     def test_timeout_exception(self, driver):
+        """
         # Open page
         driver.get("https://practicetestautomation.com/practice-test-exceptions/")
 
@@ -69,3 +63,8 @@ class TestExceptions:
 
         # Verify second input field is displayed
         assert row_2_input_element._is_displayed(), "Row 2 input should be displayed, but it's not"
+        """
+        exceptions_page = ExceptionsPage(driver)
+        exceptions_page.open()
+        exceptions_page.add_second_row()
+        assert exceptions_page.is_row2_displayed(), "Row 2 input should be displayed, but it's not"

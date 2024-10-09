@@ -1,3 +1,5 @@
+from os import supports_effective_ids
+
 from page_objects.base_page import BasePage
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
@@ -13,6 +15,7 @@ class ExceptionsPage(BasePage):
     __row_2_save_button = (By.XPATH, "//div[@id='row2']/button[@name='Save']")
     __row_1_edit_button = (By.ID, "edit_btn")
     __confirmation_element = (By.ID, "confirmation")
+    __instructions_element = (By.ID, "instructions")
 
     #Methods
     def __init__(self,driver: WebDriver):
@@ -43,6 +46,9 @@ class ExceptionsPage(BasePage):
         super()._type(self.__row_1_input_element, food)
         super()._click(self.__row_1_save_button)
         super()._wait_until_element_is_visible(self.__confirmation_element)
+
+    def are_instructions_displayed(self) ->bool:
+        return super()._is_displayed(self.__instructions_element)
 
 
 

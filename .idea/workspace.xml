@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce842230-d8ea-47e9-95c6-be6f88365a9d" name="Changes" comment="practice-test-login_homework43-47-50.git">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/practice-test-login_homework43-47-50.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_homework43.py" afterDir="false" />
+    <list default="true" id="ce842230-d8ea-47e9-95c6-be6f88365a9d" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_objects/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_objects/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_objects/exceptions_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_objects/exceptions_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_objects/logged_in_successfully.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_objects/logged_in_successfully.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_objects/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_objects/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_page_negative.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_page_negative.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SekaBoba&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SekaBoba/practice-test-login_homework43-47-50.git&quot;,
+    &quot;accountId&quot;: &quot;84d8070f-7751-4478-a711-b51be1a7f7d3&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -50,40 +61,29 @@
     "Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald.executor": "Run",
     "Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception.executor": "Run",
     "Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button.executor": "Run",
+    "Python tests.Python tests for test_47.TestPositiveScenarios.test_timeout_exception.executor": "Run",
+    "Python tests.Python tests for test_exceptions.TestExceptions.test_element_not_interactable_exception.executor": "Run",
+    "Python tests.Python tests for test_exceptions.TestExceptions.test_invalid_element_state_exception.executor": "Run",
+    "Python tests.Python tests for test_exceptions.TestExceptions.test_no_such_element_exception.executor": "Run",
+    "Python tests.Python tests for test_exceptions.TestExceptions.test_stale_element_reference_exception.executor": "Run",
+    "Python tests.Python tests for test_login_page.TestPositiveScenarios.test_positive_login.executor": "Run",
+    "Python tests.Python tests for test_login_page_negative.TestNegativeScenarios.test_negative_login.executor": "Run",
     "Python tests.Python tests in test_47.py.executor": "Run",
     "Python tests.Python tests in test_homework43.py.executor": "Run",
     "Python tests.Python tests in test_login.py.executor": "Run",
     "Python tests.debug.executor": "Run",
+    "Python tests.exceptions.executor": "Run",
+    "Python tests.login tests.executor": "Run",
+    "Python tests.negative login tests.executor": "Run",
     "Python.Homework43.executor": "Run",
+    "Python.logged_in_successfully.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/slobodanka.mihajlov/pytestProjects/Homework43"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.debug">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="practice-test-login_homework43-47-50" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.exceptions">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="practice-test-login_homework43-47-50" />
       <option name="ENV_FILES" value="" />
@@ -106,53 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="practice-test-login_homework43-47-50" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="practice-test-login_homework43-47-50" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="practice-test-login_homework43-47-50" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_47.TestPositiveScenarios" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_exceptions.TestExceptions.test_element_not_interactable_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="practice-test-login_homework43-47-50" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +117,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_47.TestPositiveScenarios&quot;" />
+      <option name="_new_target" value="&quot;test_exceptions.TestExceptions.test_element_not_interactable_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_47.TestPositiveScenarios.test_clear_input_feald" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_exceptions.TestExceptions.test_invalid_element_state_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="practice-test-login_homework43-47-50" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +132,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_47.TestPositiveScenarios.test_clear_input_feald&quot;" />
+      <option name="_new_target" value="&quot;test_exceptions.TestExceptions.test_invalid_element_state_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_exceptions.TestExceptions.test_no_such_element_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="practice-test-login_homework43-47-50" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,57 +147,8 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_47.TestPositiveScenarios.test_no_such_element_exception&quot;" />
+      <option name="_new_target" value="&quot;test_exceptions.TestExceptions.test_no_such_element_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_47.TestPositiveScenarios.test_push_add_button" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="practice-test-login_homework43-47-50" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_47.TestPositiveScenarios.test_push_add_button&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="practice-test-login_homework43-47-50" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="practice-test-login_homework43-47-50" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="debug" type="tests" factoryName="Autodetect" temporary="true">
@@ -261,21 +166,36 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="exceptions" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="practice-test-login_homework43-47-50" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;-m exceptions -n\u003d2&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button" />
-      <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios" />
-      <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald" />
-      <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception" />
+      <item itemvalue="Python tests.exceptions" />
+      <item itemvalue="Python tests.Python tests for test_exceptions.TestExceptions.test_element_not_interactable_exception" />
+      <item itemvalue="Python tests.Python tests for test_exceptions.TestExceptions.test_invalid_element_state_exception" />
+      <item itemvalue="Python tests.Python tests for test_exceptions.TestExceptions.test_no_such_element_exception" />
       <item itemvalue="Python tests.debug" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.exceptions" />
+        <item itemvalue="Python tests.Python tests for test_exceptions.TestExceptions.test_invalid_element_state_exception" />
+        <item itemvalue="Python tests.Python tests for test_exceptions.TestExceptions.test_element_not_interactable_exception" />
+        <item itemvalue="Python tests.Python tests for test_exceptions.TestExceptions.test_no_such_element_exception" />
         <item itemvalue="Python tests.debug" />
-        <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_push_add_button" />
-        <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_no_such_element_exception" />
-        <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios.test_clear_input_feald" />
-        <item itemvalue="Python tests.Python tests for test_47.TestPositiveScenarios" />
       </list>
     </recent_temporary>
   </component>
@@ -295,6 +215,47 @@
       <option name="presentableId" value="Default" />
       <updated>1727688113940</updated>
     </task>
+    <task id="LOCAL-00001" summary="practice-test-login_homework43-47-50.git">
+      <option name="closed" value="true" />
+      <created>1727866446374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727866446374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="practice-test-login_homework43-47-50.git&#10;&#10;Signed-off-by: slobodanka.mihajlov &lt;mihajlov.slobodanka@yahoo.com&gt;">
+      <option name="closed" value="true" />
+      <created>1728281955848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728281955848</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LoggedInSuccessfullyPage">
+      <option name="closed" value="true" />
+      <created>1728283451308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728283451308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1728382164353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728382164353</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1728395072609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728395072609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,7 +276,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice-test-login_homework43-47-50.git" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice-test-login_homework43-47-50.git" />
+    <MESSAGE value="practice-test-login_homework43-47-50.git&#10;&#10;Signed-off-by: slobodanka.mihajlov &lt;mihajlov.slobodanka@yahoo.com&gt;" />
+    <MESSAGE value="LoggedInSuccessfullyPage" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
